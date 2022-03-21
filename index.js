@@ -31,7 +31,7 @@ console.log(processFirstItem(['foo','bar'],function(str){return str+str}));
   
   2. Which of the two uses a closure? How can you tell? Counter 1 you can tell by line 41 'return function counter()' 
   
-  3. In what scenario would the counter1 code be preferable? 
+  3. In what scenario would the counter1 code be preferable? 1 being used a callback and 2 being used as a "container"
      counter2 be better?  
 */
 
